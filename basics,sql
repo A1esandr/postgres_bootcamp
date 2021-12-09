@@ -15,3 +15,5 @@ CREATE DATABASE learning
     OWNER = test
     ENCODING = 'UTF8'
     CONNECTION LIMIT = -1;
+   
+-- DROP DATABASE [IF EXISTS] database_name;
