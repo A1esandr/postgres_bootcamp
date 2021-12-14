@@ -1,2 +1,2 @@
 # postgres_bootcamp
-Bootcamp course for PostgreSQL
+Bootcamp course for PostgreSQL records
