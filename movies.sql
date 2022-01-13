@@ -7,3 +7,10 @@ CREATE TABLE actors (
 	add_date DATE,
 	update_date DATE
 );
+
+SELECT 
+*
+FROM actors
+WHERE gender = 'M'
+ORDER BY date_of_birth
+FETCH FIRST 5 ROW ONLY;
